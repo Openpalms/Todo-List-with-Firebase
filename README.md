@@ -15,11 +15,11 @@ getTodos() - getting data from Firebase storage <br/>
 then using @useState to set whole data and map through it  <br/>
 
 ### 2.TodoCard components:
-#uses @dayjs to work with time <br/>
-#updateData() - adds new string to array for new file and allows to map through it  <br/>
-#uploadFiles() - uploads new file to firebase storage <br/>
-#deleteTodoItem() - removes exact Todo card from database <br/>
-#toggle() - toggles @finished state <br/>
+uses @dayjs to work with time <br/>
+updateData() - adds new string to array for new file and allows to map through it  <br/>
+uploadFiles() - uploads new file to firebase storage <br/>
+deleteTodoItem() - removes exact Todo card from database <br/>
+toggle() - toggles @finished state <br/>
 
 
 

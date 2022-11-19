@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 1.input form : 
 uses React Hooks of state(to pass data to the firebase storage) and Effect (to fetch data from firebase)
 addTodo() - accepts form values 
-@name - string, header of todo List
+@name - string, header of todo List <br/>
 @description - string, main text
 @date - string,estimated date to end task
 @finished - Boolean, marks project as completed

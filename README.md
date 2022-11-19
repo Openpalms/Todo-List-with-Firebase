@@ -21,7 +21,5 @@ uploadFiles() - uploads new file to firebase storage
 deleteTodoItem() - removes exact Todo card from database
 toggle() - toggles @finished state
 
-### 2.Todo card itself 
-
 
 
